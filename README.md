@@ -1,2 +1,2 @@
 # demo1 
-this is instruction manual to the project
+this is instruction manual to the projects
